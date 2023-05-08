@@ -2,7 +2,7 @@
 
 <?php include 'includes/header.php'; ?>
 
-?>
+
 <main class="container p-4">
   <div class="row">
     <div class="col-md-4">
